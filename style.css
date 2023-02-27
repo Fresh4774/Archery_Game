@@ -1,0 +1,30 @@
+body{
+	margin:0;
+	background:#393E46;
+	
+	margin:20px;
+}
+svg{
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+}
+
+.heading {
+	color: #03C988;
+	font-weight: bold;
+	font-family:sans-serif;
+	opacity: 1;
+}
+
+.title {
+	position: absolute;
+	right: 580px;
+	background-image: linear-gradient(to left, #72FFFF, #97DECE);
+	color: transparent;
+	background-clip: text;
+	-webkit-background-clip: text;
+	font-size: 30px;
+}
